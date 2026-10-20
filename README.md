@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Management System (Java + MySQL)
 
 A beginner-friendly college project with a browser UI, Java Spring Boot REST API, and a relational MySQL database.
@@ -72,3 +73,7 @@ All data APIs require an admin session. This is an educational project scaffold;
 - Student login uses the exact email stored in the Admin Portal and the student's roll number as a **temporary demo password**.
 - After sign-in, students can see only their own profile and results. Admin login remains at `http://localhost:8080/`.
 - This temporary password approach is for local demonstration only. Before real deployment, replace it with individually set, hashed passwords and a password-reset/change flow.
+=======
+# Student-Management-System
+A Student Management System built using Java, Spring Boot, MySQL, HTML, CSS, and JavaScript. Includes student records management, an admin dashboard, and a student portal for managing academic information.
+>>>>>>> 234f3a3a2a634dd20c404454f5bb82957f0ca4fb
